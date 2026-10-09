@@ -1,9 +1,9 @@
 My add-ons:
-- Check [README.md](https://github.com/nhantrichuyenanh/youtube-timestamps/blob/master/README.md) for [`nhantrichuyenanh/youtube-timestamps`](https://github.com/nhantrichuyenanh/youtube-timestamps). 🫩🥱
-- Fix [`nhantrichuyenanh/YouTube-Comment-Formatter`](https://github.com/nhantrichuyenanh/YouTube-Comment-Formatter) occasionally not working. 😫
-- Look into why sometimes `#ytSearchboxComponentNewTabButton` appears, sometimes not in videos opened in new tab for [`nhantrichuyenanh/YouTubeNewTabSearch`](https://github.com/nhantrichuyenanh/YouTubeNewTabSearch).
+- Check [README.md](https://github.com/tenkeyful/youtube-timestamps/blob/master/README.md) for [`tenkeyful/youtube-timestamps`](https://github.com/tenkeyful/youtube-timestamps). 🫩🥱
+- Fix [`tenkeyful/YouTube-Comment-Formatter`](https://github.com/tenkeyful/YouTube-Comment-Formatter) occasionally not working. 😫
+- Look into why sometimes `#ytSearchboxComponentNewTabButton` appears, sometimes not in videos opened in new tab for [`tenkeyful/YouTubeNewTabSearch`](https://github.com/tenkeyful/YouTubeNewTabSearch).
   > Research how [YouTube Tweaks](https://addons.mozilla.org/addon/youtube-tweaks)' Open search results in new tab always works compared to mine.
-- Research how [Innertube](https://github.com/topics/innertube) works for [`nhantrichuyenanh/WIP-YT-Profile-Card-Info`](https://github.com/nhantrichuyenanh/WIP-YT-Profile-Card-Info).
+- Research how [Innertube](https://github.com/topics/innertube) works for [`tenkeyful/WIP-YT-Profile-Card-Info`](https://github.com/tenkeyful/WIP-YT-Profile-Card-Info).
 - Create a Facebook add-on that makes homepage/page/group/etc... display posts (`.x1lliihq`) as columns, similar to Pinterest layout.
   > Material/Reference: [Facebook多欄化(Multi-Column)](https://greasyfork.org/en/scripts/535430-facebook%E5%A4%9A%E6%AC%84%E5%8C%96-multi-column), [Reddit Multi-Column](https://addons.mozilla.org/addon/reddit-multi-column)
 - Create a YouTube add-on that adds Oldest and Timed to Sort by in the comment section on YouTube `/watch`, `/shorts`, and `/post`.
@@ -17,7 +17,7 @@ My add-ons:
   - enable/disable YouTube Music
   - complements [YouTube SpeedUp](https://addons.mozilla.org/addon/youtube-speedup), which is almost perfect but lacking enough visual cues (hence the slider) and should be next to the play button not the autoplay one (bc playback rate indicator next to time display makes perfect sense)
   - > Material/Reference: [YouTube SpeedUp](https://addons.mozilla.org/addon/youtube-speedup), [YouTube Speed Slider](https://addons.mozilla.org/addon/youtube-speed-slider-controls), [simple YouTube speed controls](https://addons.mozilla.org/addon/simple-youtube-speed-controls)
-  - > Repository: https://github.com/nhantrichuyenanh/YouTube-Playback-Slider
+  - > Repository: https://github.com/tenkeyful/YouTube-Playback-Slider
 - Create a YouTube add-on that adds button which removes video from playlist.
   > Material/Reference: [YouTube Playlist Quick Delete](https://addons.mozilla.org/addon/youtube-playlist-quick-delete)
 - Remake [TubeMemo](https://addons.mozilla.org/addon/tubememo) because Felix Tran said he discontinued it. :( what a shame
