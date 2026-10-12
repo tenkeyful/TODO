@@ -28,4 +28,4 @@ My add-ons:
 
 ---
 
-Other people's add-ons: Check if repo owners of [`Kamo-Chip/yt-equity`](https://github.com/Kamo-Chip/yt-equity/issues/4) and [`macciek-k/YT-dont-scroll-on-fullscreen`](https://github.com/macciek-k/YT-dont-scroll-on-fullscreen/issues/1) reply.
+Other people's add-ons: Check status of [`Kamo-Chip/yt-equity`](https://github.com/Kamo-Chip/yt-equity/issues/4).
