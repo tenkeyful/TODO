@@ -1,6 +1,7 @@
 My add-ons:
 - Check [README.md](https://github.com/tenkeyful/youtube-timestamps/blob/master/README.md) for [`tenkeyful/youtube-timestamps`](https://github.com/tenkeyful/youtube-timestamps). 🫩🥱
-- Fix [`tenkeyful/YouTube-Comment-Formatter`](https://github.com/tenkeyful/YouTube-Comment-Formatter) occasionally not working. 😫
+- Fix [`tenkeyful/youtube-comment-formatter`](https://github.com/tenkeyful/youtube-comment-formatter) occasionally not working.
+- Make [`tenkeyful/youtube-commenter-info`](https://github.com/tenkeyful/youtube-commenter-info)'s codebase readable for maintenance.
 - Create a Facebook add-on that makes homepage/page/group/etc... display posts (`.x1lliihq`) as columns, similar to Pinterest layout.
   > Material/Reference: [Facebook多欄化(Multi-Column)](https://greasyfork.org/en/scripts/535430-facebook%E5%A4%9A%E6%AC%84%E5%8C%96-multi-column), [Reddit Multi-Column](https://addons.mozilla.org/addon/reddit-multi-column)
 - Create a YouTube add-on that adds Oldest and Timed to Sort by in the comment section on YouTube `/watch`, `/shorts`, and `/post`.
