@@ -15,7 +15,7 @@ My add-ons:
   - ~enable/disable YouTube Music~
   - ~complements [YouTube SpeedUp](https://addons.mozilla.org/addon/youtube-speedup), which is almost perfect but lacking enough visual cues (hence the slider) and should be next to the play button not the autoplay one (bc playback rate indicator next to time display makes perfect sense)~
   - > ~Material/Reference: [YouTube SpeedUp](https://addons.mozilla.org/addon/youtube-speedup), [YouTube Speed Slider](https://addons.mozilla.org/addon/youtube-speed-slider-controls), [simple YouTube speed controls](https://addons.mozilla.org/addon/simple-youtube-speed-controls)~
-  - > Repository: https://github.com/tenkeyful/YouTube-Playback-Slider
+  - > Repository: https://github.com/tenkeyful/youtube-playback-slider
 - Create a YouTube add-on that adds button which removes video from playlist.
   > Material/Reference: [YouTube Playlist Quick Delete](https://addons.mozilla.org/addon/youtube-playlist-quick-delete)
 - Remake [TubeMemo](https://addons.mozilla.org/addon/tubememo) because Felix Tran said he discontinued it. :( what a shame
