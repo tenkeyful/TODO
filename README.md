@@ -6,8 +6,6 @@ My add-ons:
   > Material/Reference: [Facebook多欄化(Multi-Column)](https://greasyfork.org/en/scripts/535430-facebook%E5%A4%9A%E6%AC%84%E5%8C%96-multi-column), [Reddit Multi-Column](https://addons.mozilla.org/addon/reddit-multi-column)
 - Create a YouTube add-on that adds Oldest and Timed to Sort by in the comment section on YouTube `/watch`, `/shorts`, and `/post`.
   > Material/Reference: [YouTube Data API](developers.google.com/youtube/v3/docs/commentThreads/list#parameters), [YouTube Comment Search Pro](addons.mozilla.org/addon/yt-comment-search), [Comment and Reviews Sortor](https://chromewebstore.google.com/detail/comment-and-reviews-sorto/hjgeocikfedoclkjchdmfemlmokkmpcl)
-- Create a YouTube add-on that shows all the tags of a YouTube video.
-  > Material/Reference: [Show YouTube Tags](https://addons.mozilla.org/addon/show-youtube-tags)
 - ~**Create a YouTube add-on that adds a playback speed slider which**:~
   - ~changes playback rate (duh)~
   - ~looks exactly like the volume slider and replaces it (`.ytp-volume-area`, bc it's useless)~
