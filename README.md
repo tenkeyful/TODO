@@ -23,7 +23,3 @@ My add-ons:
 - Use `about:addons`'s variables like background color instead of hardcoded values.
 - Remove all the unnecessary code comments because the functions' name already explained itself.
 - Once stable, optimize for performance.
-
----
-
-Other people's add-ons: Check status of [`Kamo-Chip/yt-equity`](https://github.com/Kamo-Chip/yt-equity/issues/4).
